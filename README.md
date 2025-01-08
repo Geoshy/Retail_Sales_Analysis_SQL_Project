@@ -13,7 +13,7 @@ To thoroughly explore the retail sales dataset, I utilized the capabilities of a
 
 2. **PostgreSQL:** relational database management system **RDBMS**.
 
-3. **Visual Studio Code:** for ****Python** coding for analysis and visualize the charts of business insights through Python libraries such as **Pandas** and **Matplotlib**.
+3. **Visual Studio Code:** for **Python** coding for analysis and visualize the charts of business insights through Python libraries such as **Pandas** and **Matplotlib**.
 
 4. **Jupyter Notebook:** as it an interactive web-based environment that allows users to create and share documents containing live code, visualizations, and narrative text, using Python language.
 
